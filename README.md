@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hi there, I'm David Nguyen! 👋
+
+I'm a final-year Computer Science major at California State University, Fullerton. I specialize in creating software that's not just functional but also visually appealing and efficient. With a knack for both front-end and back-end development, I am passionate about building applications that enhance user experience and bring communities together.
+
+## 🛠 Skills
+- **Languages**: C++, Swift, Python, R, JavaScript, TypeScript, PHP
+- **Frameworks/Technologies**: React, Tailwind CSS, HTML, CSS
+- **Tools**: XCode, VSCode, MySQL, phpMyAdmin
+
+## 🔨 Projects
+- **Personal Portfolio Website**: A showcase of my work and skills built with React, TypeScript, and Tailwind CSS. [Visit Repo](#)
+- **RaveDomain**: A social media platform for ravers to connect, share media, and track events, developed using React, TypeScript, and Tailwind CSS. [Visit Repo](#)
+- **DishDive**: An iOS app where users can create, store, and share recipes. Built with Swift. [Visit Repo](#)
+
+## 🌱 I’m currently learning
+I'm enhancing my skills in full-stack development, focusing on React, TypeScript, and modern web technologies. I am deeply interested in app development and am continuously exploring new tools and practices to refine my abilities in building scalable and efficient applications.
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/davidnguyen777/)
+
+Feel free to connect with me for collaborations or just a chat about technology and software development!
+
 
 <!--
 **Pzychopomp/Pzychopomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
