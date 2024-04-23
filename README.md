@@ -17,7 +17,7 @@ I'm enhancing my skills in full-stack development, focusing on React, TypeScript
 
 ## 📫 How to reach me
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> (https://www.linkedin.com/in/davidnguyen777/)
-
+d
 Feel free to connect with me for collaborations or just a chat about technology and software development!
 
 
