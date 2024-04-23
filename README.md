@@ -16,7 +16,7 @@ I'm a final-year Computer Science major at California State University, Fullerto
 I'm enhancing my skills in full-stack development, focusing on React, TypeScript, and modern web technologies. I am deeply interested in app and website development, and am continuously exploring new tools and practices to refine my abilities in building scalable and efficient applications.
 
 ## 📫 How to reach me
-<img src="{img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
