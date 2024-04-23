@@ -13,7 +13,7 @@ I'm a final-year Computer Science major at California State University, Fullerto
 - **DishDive**: An iOS app where users can create, store, and share recipes. Built with Swift. [Visit Repo](https://github.com/Pzychopomp/DishDive)
 
 ## 🌱 I’m currently learning
-I'm enhancing my skills in full-stack development, focusing on React, TypeScript, and modern web technologies. I am deeply interested in app development and am continuously exploring new tools and practices to refine my abilities in building scalable and efficient applications.
+I'm enhancing my skills in full-stack development, focusing on React, TypeScript, and modern web technologies. I am deeply interested in app and website development, and am continuously exploring new tools and practices to refine my abilities in building scalable and efficient applications.
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/davidnguyen777/)
