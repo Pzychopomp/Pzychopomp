@@ -8,7 +8,7 @@ I'm a graduate (May 2024) that studied Computer Science at California State Univ
 - **Tools**: XCode, VSCode, MySQL, phpMyAdmin
 
 ## 🔨 Projects
-- **CodePzych0pomp**: A showcase of my work and skills built with React, TypeScript, and Tailwind CSS. [Visit Repo](https://github.com/Pzychopomp/CodePzych0pomp)
+- **CodePzych0pomp**: A showcase of my work and skills in the form of a personal website, built with React, TypeScript, and Tailwind CSS. [Visit Repo](https://github.com/Pzychopomp/CodePzych0pomp)
 - **RaveDomain**: A simple website/app that lets you save media and track upcoming events, developed using React, TypeScript, and Tailwind CSS. [Visit Repo](https://github.com/Pzychopomp/RaveDomain)
 - **DishDive**: An iOS app where users can create, store, and share recipes. Built with Swift. [Visit Repo](https://github.com/Pzychopomp/DishDive)
 
