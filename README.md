@@ -1,6 +1,6 @@
 # Hi there, I'm David Nguyen! 👋
 
-I'm a final-year Computer Science major at California State University, Fullerton. I specialize in creating software that's not just functional but also visually appealing and efficient. With a knack for both front-end and back-end development, I am passionate about building applications that enhance user experience and bring communities together.
+I'm a graduate (May 2024) that studied Computer Science at California State University, Fullerton. I specialize in creating software that's not just functional but also visually appealing and efficient. With a knack for both fullstack development, I am passionate about building applications that enhance user experience and bring communities together.
 
 ## 🛠 Skills
 - **Languages**: C++, Swift, Python, R, JavaScript, TypeScript, PHP
